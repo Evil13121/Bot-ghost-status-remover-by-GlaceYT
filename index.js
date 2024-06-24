@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help","EcoX by arnavontopbaby"];
+const statusMessages = ["Clan Bot"];
 
 
 let currentIndex = 0;
